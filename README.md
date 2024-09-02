@@ -25,25 +25,7 @@ The React ToDo App is a user-friendly task management application designed to he
 
 - **Pie Chart**: A pie chart visualization offers a visual representation of task distribution by category, improving user insight into their tasks.
 
-## Hosted Link
-https://webguyashis-react-todo-project.netlify.app/
 
-## Screenshots
-### Desktop View
-![home](https://github.com/WebGuyAshis/Todo-List-React-Project2/assets/126752768/5bfe363a-883a-4a4b-98c1-a0f416da7fb4)
-
-![dash](https://github.com/WebGuyAshis/Todo-List-React-Project2/assets/126752768/39da033a-43da-4c63-b992-c7b7a9aab9c3)
-
-![Task](https://github.com/WebGuyAshis/Todo-List-React-Project2/assets/126752768/a8939b0b-34ef-4a6e-8188-52ab1457b463)
-
-![Edit Tasks](https://github.com/WebGuyAshis/Todo-List-React-Project2/assets/126752768/9798d3cd-9ac6-41f8-8797-d573bb329140)
-
-### Mobile View
-![IMG-20231001-WA0000](https://github.com/WebGuyAshis/Todo-List-React-Project2/assets/126752768/65c6685a-46c5-4f96-9355-1fca619109c6)
-
-![Screenshot_2023-10-01-03-12-05-480_com android chrome](https://github.com/WebGuyAshis/Todo-List-React-Project2/assets/126752768/abca6e28-4259-4113-8df7-cc876aa895c9)
-
-![IMG-20231001-WA0001](https://github.com/WebGuyAshis/Todo-List-React-Project2/assets/126752768/5410eea5-61a5-418d-b62e-b9fd68c72cb9)
 
 # Getting Started with Create React App
 
@@ -85,33 +67,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
